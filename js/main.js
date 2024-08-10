@@ -327,7 +327,7 @@ jQuery(document).ready(function ($) {
 			// alert('yay');
 		})
 	};
-	OnePageNavigation();
+	// OnePageNavigation();
 
 });
 
